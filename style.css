@@ -1,0 +1,130 @@
+body {
+    height: 100%;
+}
+
+.topbar {
+    background-color: #274794;
+    padding: 15px;
+}
+.navbarr {
+    background-color: #EFEAEE;
+    padding: 30px;
+}
+.navbarr img{
+    margin-left: 100px;
+    margin-top: -10px;
+   position: absolute;
+   height: 90px;
+}
+.navbarr a{
+    margin-top: -15px;
+    font-size: x-small;
+    margin-left: 1000px;
+    position: absolute;
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px 20px;
+    background-color: #274794;
+    text-decoration: none;
+}
+.navbarr a:hover {
+    text-decoration: none;
+    background-color: yellow;
+    box-shadow: none;
+}
+.hero {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.hero a{
+    margin-top: 300px;
+    margin-left: 1200px;
+    position: absolute;
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px 20px;
+    background-color: #0c2d79;
+    text-decoration: none;
+    box-shadow: 5px 5px rgb(207, 207, 207), 10px 10px ;
+}
+.hero a:hover {
+    text-decoration: none;
+    background-color: yellow;
+    box-shadow: none;
+}
+.judul {
+    margin-left: 225px;
+    color: #274794;
+    font-size: small;
+    font-weight: 600;
+}
+.judul h5{
+margin-top: -20px;
+}
+.konten {
+    width: 80%;
+    text-align: center;
+    margin-top: 20px;
+}
+.konten span{
+   color: #0c2d79;
+}
+.tentang {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 90px;
+    padding-bottom: 60px;
+    background-color: #F4F7FE;
+}
+.tentang span{
+    color: #0c2d79;
+ }
+ .tentang h5 {
+    margin-top: -50px;
+ }
+ .tentang a{
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 40px;
+    background-color: #0c2d79;
+    text-decoration: none;
+    box-shadow: 5px 5px rgb(207, 207, 207), 10px 10px ;
+ }
+ .tentang a:hover {
+    text-decoration: none;
+    background-color: yellow;
+    box-shadow: none;
+}
+  .tentang p {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+  .form {
+    text-align: center;
+    font-weight: 600;
+}
+  .form span {
+   color: #0c2d79;
+}
+.form label {
+    font-weight: 700;
+}
+.footer {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 90px;
+    padding-bottom: 60px;
+    background-color: #F9F9F9;
+}
+.footer h5 {
+    margin-top: -50px;
+ }
+.footer span {
+   color: #0c2d79;
+}
+.footer img {
+    margin-top: 30px;
+    height: 150px;
+}
